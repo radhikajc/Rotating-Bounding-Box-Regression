@@ -1,7 +1,7 @@
 # Rotating-Bounding-Box-Regression
 
 
-Problem: A data synthesizer generates images and labels. The goal is to train a model with at most 4.5 million trainable parameters which determine whether each image has a star and, if so, find a rotated bounding box that bounds the star.
+A data synthesizer generates images and labels. The goal is to train a model with at most 4.5 million trainable parameters which determine whether each image has a star and, if so, find a rotated bounding box that bounds the star.
 More precisely, the labels contain the following five numbers, which your model should predict:
 • the x and y coordinates of the center
 • yaw
