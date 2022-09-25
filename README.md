@@ -10,9 +10,9 @@ More precisely, the labels contain the following five numbers, which your model 
 
 Steps:
 1. Implemented network for rotated object detection using modulated Rotation Loss. 
-2. 2. To implement the network, used ResNet18 with classification and regression heads.
+2. To implement the network, used ResNet18 with classification and regression heads.
 3. Introduced normalized and unnormalized functions with a range of labels as [0,1]. 
-4. 4. Classified image with a label based on values of the generated label.
+4. Classified image with a label based on values of the generated label.
 
 <img width="873" alt="image" src="https://user-images.githubusercontent.com/103969912/192167380-da920043-74c2-4bfc-938b-8ada5a35c260.png">
 
